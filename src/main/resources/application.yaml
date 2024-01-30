@@ -1,0 +1,11 @@
+github:
+  api:
+    url: https://api.github.com
+    version: 2022-11-28
+  app:
+    id: 478109
+  authentication:
+    keystoreCertificate: reviewgenius.2023-11-15.private-key.pem
+    tokenExpirationPeriod: 600000
+
+
